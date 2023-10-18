@@ -1,0 +1,9 @@
+C:\Users\wille\source\repos\SQLDatabase\bin\Debug\SQLDatabase.exe.config
+C:\Users\wille\source\repos\SQLDatabase\bin\Debug\SQLDatabase.exe
+C:\Users\wille\source\repos\SQLDatabase\bin\Debug\SQLDatabase.pdb
+C:\Users\wille\source\repos\SQLDatabase\obj\Debug\SQLDatabase.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\SQLDatabase\obj\Debug\SQLDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\wille\source\repos\SQLDatabase\obj\Debug\SQLDatabase.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\SQLDatabase\obj\Debug\SQLDatabase.exe
+C:\Users\wille\source\repos\SQLDatabase\obj\Debug\SQLDatabase.pdb
+C:\Users\wille\source\repos\SQLDatabase\bin\Debug\Produce.txt

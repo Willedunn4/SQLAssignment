@@ -1,0 +1,6 @@
+﻿Name,Location,Price,UoM,Sell_by_Date
+Red Apples,12F,2.99,Bag,10-31-2022
+Bananas,9A,.29,Ea,10-15-2022
+Green Apples,13F,3.15,Lbs,09-09-2024
+Watermelon,6B,6.99,Each,12-15-2022
+Yellow Apples,12A,4.19,Bag,10-29-2022
